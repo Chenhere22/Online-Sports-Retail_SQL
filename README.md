@@ -19,4 +19,5 @@ The Optimizing Online Sports Retail Revenue project aims to leverage SQL to anal
 
 ## Solution
 
-To achieve these objectives, I will apply advanced SQL skills such as aggregation, summarization, truncation, data cleaning, labeling, casting, CTEs, correlation, and working with dates and times. 
+To achieve these objectives, I will apply advanced SQL skills such as aggregation, summarization, truncation, data cleaning, labeling, casting, CTEs, correlation and working with dates and times. 
+
